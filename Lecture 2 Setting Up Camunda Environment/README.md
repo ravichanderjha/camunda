@@ -34,3 +34,10 @@ In this section, we will focus on deploying Camunda runtime in various environme
 2. review application.yaml configuration
 
 3. import as maven project and run!
+4. camunda cockpit: http://localhost:8080/camunda/app/welcome/default/#!/login
+5. Username: admin
+6. password: admin
+7. Go to Cockpit
+8. Click Process menu
+9. Finally you will get camunda-setup-process
+10. Click on process and see it's process flow
